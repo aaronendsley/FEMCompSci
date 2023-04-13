@@ -1,2 +1,2 @@
-# FEMCompSci
+# algorithms-exercises
 Created with CodeSandbox
